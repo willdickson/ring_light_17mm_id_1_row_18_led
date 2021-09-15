@@ -1,7 +1,0 @@
-description,           part,    vendor,  PN,       QTY
-940nm 0805 LED,        D1-D12,  LCSC,    C131250,  12
-75 Ohm 0805 resistor,  R1 R2,  LCSC,    C20638,    2
-
-
-
-
