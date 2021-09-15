@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name led_ring-rescue)(type Legacy)(uri ${KIPRJMOD}/led_ring-rescue.lib)(options "")(descr ""))
+)
