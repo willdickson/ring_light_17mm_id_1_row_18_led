@@ -1,0 +1,13 @@
+part            description                  vendor            PN                  QTY
+---------------------------------------------------------------------------------------
+D1-D18          940nm 0805 LED                LCSC          C131250                18
+R1, R2          47 Ohm 0805 resistor          LCSC          C25315                  3 
+J1 (option1)    straight header 0.1"          Digikey       S1011EC-40-ND           1      
+J1 (option2)    right angle header 0.1"       Digikey       S1111EC-40-ND           1
+
+
+Sensor Cable
+------------
+Jumper Wire 0.1", 2-pin, 12"  Sparkfun PRT-10372 
+
+
